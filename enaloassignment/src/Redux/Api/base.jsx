@@ -1,0 +1,1 @@
+export const baseurl = 'https://stagingapi.enalo.in/inventory/get-items/'
